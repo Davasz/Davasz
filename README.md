@@ -40,4 +40,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Davasz&color=blue" alt="Profile views" /></p>
 
-![Snake animation](https://github.com/jpmoncao/jpmoncao/blob/output/github-contribution-grid-snake.svg) 
+
