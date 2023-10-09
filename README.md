@@ -2,7 +2,7 @@
 ## Eai! Eu sou o Davi Souza 👾
 <div>
     <ul>
-        <li>📚 Estudante front-end</li>
+        <li>📚 Estudante back-end</li>
         <li>❣️ Fascinado por tecnologia</li>
          <li>📫 Contate-me: <a href="mailto:davidavi200615@gmail.com">davidavi200615@gmail.com</a></li></li>
     </ul>
