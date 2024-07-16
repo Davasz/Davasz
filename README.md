@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Davi Souza from Brazil. <br><br>- 🔭 I’m working as Fullstack developer at @enterscience <br>- 📚 I'm currently learning Vue.js and Laravel. <br>- ⚡ I'm not fixed on a stack. Anything, with a lot of dedication, can be learned! But I tend to often use Java, PHP, and Web Technologies.</p>
+<p align="left">I'm Davi Souza from Brazil. <br><br>- 🔭 I’m working as Fullstack developer at @enterscience <br>- 📚 I'm currently learning Vue.js and Laravel. <br>- ⚡ I'm not fixed on a stack. Anything, with a lot of dedication, can be learned! But I often use Java, PHP, and Web Technologies in my projects.</p>
 
 ###
 
