@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Davi Souza from Brazil. <br><br>- 🔭 I'm the Founder and CEO of @Skyiit. <br>- 📚 Developer and enthusiast of branding and creating memorable brands. <br>
+<p align="left">I'm Davi Souza from Brazil. <br><br>- 🔭 I'm the Founder of @Skyiit @ZapWrapp @Qamani. <br>- 📚 Developer and enthusiast of branding and creating memorable brands. <br>
 
 ###
 
